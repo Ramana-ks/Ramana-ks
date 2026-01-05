@@ -1,90 +1,97 @@
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=160&section=header&text=Ramana%20K%20S&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40&height=220&section=header&text=Ramana%20KS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Python%20Dev%20%7C%20VLSI%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+</div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Python+Full-Stack+Developer;Django+%7C+REST+APIs+%7C+SQL;VLSI+%7C+Low-Power+Digital+Design;Always+Learning+%26+Building" />
-</p>
+<h3 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=333333&center=true&vCenter=true&width=600&lines=Building+Scalable+Django+Applications;Designing+Low-Power+VLSI+Architectures;Crafting+Responsive+Front-End+UI;Solving+Complex+Algorithmic+Problems" alt="Typing SVG" />
+    </a>
+</h3>
 
----
-
-## 👋 About Me
-
-🚀 **Python Full-Stack Developer | Django | VLSI Enthusiast**
-
-I build **scalable, secure, and performance-driven web applications** using **Python & Django**.  
-With a strong academic background in **VLSI and low-power digital design**, I approach engineering problems with both **software precision and hardware efficiency**.
-
----
-
-## ⚙️ What I Do (Animated Focus)
-
-- 🧩 Build **full-stack web applications**
-- 🔐 Design **secure authentication & authorization systems**
-- 🗄️ Optimize **database-backed backend architectures**
-- ⚡ Explore **low-power VLSI & PTL-based designs**
-- 🧠 Write **clean, maintainable, production-ready code**
-
----
-
-## 🛠️ Tech Stack (Animated Badges)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VLSI-CMOS%20%7C%20PTL-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ALU-Low%20Power%20Design-darkgreen?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects (Hover-Style Cards)
-
-### ⚡ Power-Efficient ALU using Pass Transistor Logic
-- Reduced transistor count and power consumption
-- Compared PTL vs CMOS architectures
-- Optimized for low-power VLSI applications
-
-### 🏠 Home Service Booking Web Application
-- Django full-stack system
-- Role-based authentication (User / Provider / Admin)
-- Booking workflows and dashboards
-
-### 🛒 Nostra eCommerce Website
-- Responsive frontend UI
-- Modern product listing layout
-- HTML5 + CSS3 based design
-
----
-
-## 📊 GitHub Stats (Live Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramana-ks&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramana-ks&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
   <a href="mailto:ksramana2011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Hire_Me-ksramana2011%40gmail.com-2ea44f?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin">
+  <a href="https://linkedin.com/in/ramana-ks">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ramana-ks.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=githubpages">
-  </a>
-</p>
+</div>
 
 ---
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer"/>
+<div align="center">
+  
+### 🚀 Tech Stack & Arsenal
 
-⭐ *Always learning, building, and improving. Open to internships, full-time roles, and collaborative projects.*
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode,postman&perline=10&theme=light" />
+
+<br>
+
+| **Core Domains** | **Specializations** |
+| :---: | :---: |
+| <img src="https://img.shields.io/badge/Web_Dev-Full_Stack-black?style=flat-square&logo=python"/> | **Django, REST APIs, Frontend UI** |
+| <img src="https://img.shields.io/badge/Hardware-VLSI_Design-black?style=flat-square&logo=intel"/> | **CMOS, Pass Transistor Logic, Low Power** |
+
+</div>
+
+---
+
+## ⚡ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 Home Service Booking System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-Django%20%7C%20MySQL%20%7C%20Bootstrap-blue?style=flat-square"/>
+      </div>
+      <br>
+      <ul>
+        <li><b>Problem:</b> Difficulty in finding reliable local service providers.</li>
+        <li><b>Solution:</b> A full-stack platform connecting users with verified pros.</li>
+        <li><b>Key Feature:</b> Implemented <b>RBAC (Role-Based Access Control)</b> for secure Admin/User/Provider dashboards.</li>
+      </ul>
+      <div align="center">
+        <a href="#"><strong>View Code ↗</strong></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Low-Power 4-bit ALU</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-VLSI%20%7C%20Tanner%20EDA%20%7C%20PTL-orange?style=flat-square"/>
+      </div>
+      <br>
+      <ul>
+        <li><b>Problem:</b> High power consumption in traditional CMOS circuits.</li>
+        <li><b>Solution:</b> Designed an ALU using <b>Pass Transistor Logic (PTL)</b>.</li>
+        <li><b>Result:</b> Significantly reduced transistor count and dynamic power dissipation compared to standard CMOS.</li>
+      </ul>
+      <div align="center">
+        <a href="#"><strong>View Schematics ↗</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=RamanaKS&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanaKS&layout=compact&theme=gotham&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamanaKS&theme=gotham&hide_border=true" alt="streak stats" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40&height=100&section=footer"/>
